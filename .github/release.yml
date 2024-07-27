@@ -4,8 +4,8 @@ changelog:
   exclude:
     labels:
       - ignore-for-release
-    authors:
-      - dependabot
+      - duplicate
+      - good first issue
   categories:
     - title: Breaking Changes
       labels:
@@ -22,4 +22,10 @@ changelog:
     - title: Deprecations
       labels:
         - deprecation
+    - title: Dependency Updates
+      labels:
+        - dependencies
+    - title: Documentation
+      labels:
+        - documentation
 
