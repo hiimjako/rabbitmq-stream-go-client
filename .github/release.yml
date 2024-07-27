@@ -4,8 +4,6 @@ changelog:
   exclude:
     labels:
       - ignore-for-release
-      - duplicate
-      - good first issue
   categories:
     - title: Breaking Changes
       labels:
