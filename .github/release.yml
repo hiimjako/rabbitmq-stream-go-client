@@ -20,10 +20,10 @@ changelog:
     - title: Deprecations
       labels:
         - deprecation
-    - title: Dependency Updates
-      labels:
-        - dependencies
     - title: Documentation
       labels:
         - documentation
+    - title: Dependency Updates
+      labels:
+        - dependencies
 
