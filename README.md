@@ -11,7 +11,7 @@ Go client for [RabbitMQ Stream Queues](https://github.com/rabbitmq/rabbitmq-serv
 
 # Table of Contents
 test
-enhancement
+enhancement test 2 labels
 - [Overview](#overview)
 - [Installing](#installing)
 - [Run server with Docker](#run-server-with-docker)
